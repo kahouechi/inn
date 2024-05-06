@@ -1,0 +1,15 @@
+@import "tailwindcss/base";
+@import "tailwindcss/components";
+@import "tailwindcss/utilities";
+
+:root {
+  font-family: "Inter", sans-serif, Helvetica;
+}
+
+a:-webkit-any-link {
+  @apply no-underline text-black;
+}
+
+h1 {
+  font-family: "Freeman", sans-serif, Helvetica;
+}
