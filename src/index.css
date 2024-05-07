@@ -7,9 +7,10 @@
 }
 
 a:-webkit-any-link {
-  @apply no-underline text-black;
+  @apply no-underline text-inherit;
 }
 
 h1 {
   font-family: "Freeman", sans-serif, Helvetica;
+  @apply text-xl;
 }

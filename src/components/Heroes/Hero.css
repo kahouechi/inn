@@ -1,0 +1,3 @@
+.hero-wrapper {
+  @apply flex items-center justify-center text-white bg-[#b6d7a8] py-36 px-10;
+}
