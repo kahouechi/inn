@@ -1,3 +1,8 @@
 .hero-wrapper {
-  @apply flex items-center justify-center text-white bg-[#b6d7a8] py-36 px-10;
+  @apply flex items-center justify-center text-white text-xl text-center font-bold py-24 px-10;
 }
+
+.hero-container {
+  @apply flex flex-col items-center justify-center gap-5;
+}
+

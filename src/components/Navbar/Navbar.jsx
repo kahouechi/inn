@@ -37,6 +37,7 @@ const Navbar = () => {
         >
           <Link to="/">HOME</Link>
           <Link to="/all-eats">ALL EATS</Link>
+          <Link to="/favs">FAVS</Link>
         </div>
 
         <div className="navbar-mobile-button" onClick={() => setMenuOpened((prev)=>!prev)}>
