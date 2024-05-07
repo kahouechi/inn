@@ -1,0 +1,7 @@
+.randomizer-wrapper {
+  @apply flex flex-col justify-center items-center text-center gap-5;
+}
+
+.randomizer-wrapper button {
+  @apply bg-pink-300 text-white font-bold p-3 rounded-lg shadow-md;
+}
