@@ -16,7 +16,7 @@ const Randomizer = () => {
       <button onClick={randomize}>RANDOMIZE!!!</button>
       <p>{randomOption !== null && options[randomOption].name}</p>
       {randomOption !== null && 
-        <video width="320" height="320" loop autoplay playsInline muted controls>
+        <video width="320" height="320" loop autoplay muted playsinline>
           <source src="./GriddyBattle.mp4" type="video/mp4" />
           Your browser does not support the video tag :&#40;
         </video>
