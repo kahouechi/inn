@@ -7,7 +7,7 @@ const AllEats = () => {
     <div className='all-eats-container'>
       {options.map((option, i) => (
         <div key={option.id} className='option'>
-          <video width="100" height="100" playsinline autoplay muted loop controls className='overflow-hidden'>
+          <video width="50" height="50" playsinline autoplay muted loop controls className='overflow-hidden'>
             <source src="./GriddyBattle.mp4" type="video/mp4" />
             Your browser does not support the video tag :&#40;
           </video>

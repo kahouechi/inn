@@ -3,5 +3,5 @@
 }
 
 .option {
-  @apply flex flex-col justify-center items-center gap-5 bg-pink-100 rounded-lg shadow-md p-5;
+  @apply flex items-center gap-5 bg-pink-100 rounded-lg shadow-md p-5;
 }
