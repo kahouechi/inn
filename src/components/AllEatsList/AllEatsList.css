@@ -1,0 +1,7 @@
+.all-eats-container {
+  @apply grid grid-cols-1 gap-10;
+}
+
+.option {
+  @apply flex flex-col justify-center items-center gap-5 bg-pink-100 rounded-lg shadow-md p-5;
+}
