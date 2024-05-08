@@ -11,7 +11,7 @@
 }
 
 .navbar-menu {
-  @apply flex flex-col text-end font-semibold [text-shadow:_0_1px_5px_rgb(0_0_0_/_10%)] text-xl shadow-md absolute right-2 top-14 bg-pink-100 rounded-lg p-4 gap-2 [font-family:_"Freeman"] lg:bg-transparent lg:shadow-none lg:flex-row lg:top-0 lg:right-0 lg:p-0;
+  @apply flex flex-col text-end font-semibold [text-shadow:_0_1px_5px_rgb(0_0_0_/_10%)] text-xl shadow-md absolute right-2 top-14 bg-pink-100 rounded-lg p-4 gap-2 [font-family:_"Freeman"] lg:bg-transparent lg:shadow-none lg:flex-row lg:top-0 lg:right-0 lg:p-0 lg:gap-5 lg:shadow-none;
 }
 
 .navbar-mobile-button {
