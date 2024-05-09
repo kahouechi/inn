@@ -9,7 +9,7 @@ const AllEats = () => {
   return (
     <div className="eats-wrapper">
       <div className="sort-buttons">
-        <label for="cars">Filter:</label>
+        <label for="cars">Filter: </label>
         <select name='filter'>
           <option>None</option>
           <option>Sweet</option>

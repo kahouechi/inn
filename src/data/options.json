@@ -1,62 +1,143 @@
 [
   {
     "id": 1,
-    "name": "Korean Pancake"
+    "name": "Korean Pancake",
+    "tags": [
+      "Sweet",
+      "Food",
+      "Snack"
+    ]
   },
   {
     "id": 2,
-    "name": "Yummy"
+    "name": "Yummy",
+    "tags": [
+      "Savoury",
+      "Food",
+      "Meal"
+    ]
   },
   {
     "id": 3,
-    "name": "PAT"
+    "name": "PAT",
+    "tags": [
+      "Sweet",
+      "Savoury",
+      "Food",
+      "Drink",
+      "Snack"
+    ]
   },
   {
     "id": 4,
-    "name": "Corndogs"
+    "name": "Corndogs",
+    "tags": [
+      "Savoury",
+      "Food",
+      "Snack"
+    ]
   },
   {
     "id": 5,
-    "name": "Chatime"
+    "name": "Chatime",
+    "tags": [
+      "Sweet",
+      "Drink",
+      "Snack"
+    ]
   },
   {
     "id": 6,
-    "name": "KungFu Tea"
+    "name": "KungFu Tea",
+    "tags": [
+      "Sweet",
+      "Drink",
+      "Snack"
+    ]
   },
   {
     "id": 7,
-    "name": "Grillies"
+    "name": "Grillies",
+    "tags": [
+      "Savoury",
+      "Food",
+      "Snack",
+      "Meal"
+    ]
   },
   {
     "id": 8,
-    "name": "Simple Burger"
+    "name": "Simple Burger",
+    "tags": [
+      "Savoury",
+      "Food",
+      "Snack",
+      "Meal"
+    ]
   },
   {
     "id": 9,
-    "name": "Rudy"
+    "name": "Rudy",
+    "tags": [
+      "Savoury",
+      "Food",
+      "Snack",
+      "Meal"
+    ]
   },
   {
     "id": 10,
-    "name": "Mary Brown's"
+    "name": "Mary Brown's",
+    "tags": [
+      "Savoury",
+      "Food",
+      "Snack",
+      "Meal"
+    ]
   },
   {
     "id": 11,
-    "name": "Korea House"
+    "name": "Korea House",
+    "tags": [
+      "Savoury",
+      "Food",
+      "Meal"
+    ]
   },
   {
     "id": 12,
-    "name": "Snow Day"
+    "name": "Snow Day",
+    "tags": [
+      "Sweet",
+      "Food",
+      "Snack"
+    ]
   },
   {
     "id": 13,
-    "name": "Snow Baby"
+    "name": "Snow Baby",
+    "tags": [
+      "Sweet",
+      "Food",
+      "Snack"
+    ]
   },
   {
     "id": 14,
-    "name": "Dessert Fox"
+    "name": "Dessert Fox",
+    "tags": [
+      "Sweet",
+      "Food",
+      "Snack"
+    ]
   },
   {
     "id": 15,
-    "name": "Scooped by Demetres"
+    "name": "Scooped by Demetres",
+    "tags": [
+      "Sweet",
+      "Food",
+      "Snack"
+    ]
   }
 ]
